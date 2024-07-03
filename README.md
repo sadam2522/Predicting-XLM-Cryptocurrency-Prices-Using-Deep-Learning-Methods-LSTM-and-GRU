@@ -30,7 +30,7 @@ Model LSTM dan GRU yang telah dilatih disimpan dalam file final_model_lstm.h5 da
 - LSTM_GRU_FINAL.ipynb: Notebook Jupyter berisi seluruh kode.
 - final_model_lstm.h5: Model LSTM yang telah dilatih.
 - final_model_gru.h5: Model GRU yang telah dilatih.
-- 
+  
 # Cara Menjalankan
 - Unduh atau clone repositori ini.
 - Pastikan semua pustaka yang diperlukan telah terinstal.
