@@ -1,0 +1,9 @@
+# Required Libraries
+yfinance
+numpy
+matplotlib
+pandas
+tensorflow
+scikit-learn
+hyperopt
+plotly
